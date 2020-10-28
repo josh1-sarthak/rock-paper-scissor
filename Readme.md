@@ -3,7 +3,7 @@
 ## Brief Intro
 Classic game played b/w two players, in which each player has 3 choices against the other one. Depending on the choice rankings, one or the other wins.
 
-Choice rankings:
+Choice rankings:\
 Paper > Rock > Scissors
 
 ## Skills Demonstrated
